@@ -15,11 +15,9 @@ interface ExtendedMetadata extends Metadata {
 
 
 export const metadata: ExtendedMetadata = {
-  title:
-    "Portfolio de Marvik - Développeur full stack JavaScript/TypeScript spécialisé en Node.js, Nest.js, React.js et Next.js",
-  description:
-    "Découvrez le métier de développeur full stack JavaScript/TypeScript à travers mon portfolio. Spécialisé en Node.js, Nest.js, React.js et Next.js, je suis passionné par la création d'applications web performantes et évolutives avec une approche en micro-services. Mes compétences techniques s'étendent sur la partie front-end avec React.js et Next.js, et sur la partie back-end avec Nest.js, basé sur Node.js et qui possède une architecture de type MVC (Model / Vue / Controller).",
-  imageUrl: "/hero/developer.webp",
+  title: "AJOUTER UN TITRE POUR LE RÉFÉRENCEMENT",
+  description: "AJOUTER UNE DESCRIPTION POUR LE RÉFÉRENCEMENT",
+  imageUrl: "IMAGE POUR LE RÉFÉRENCEMENT",
 };
 
 export default function RootLayout({
