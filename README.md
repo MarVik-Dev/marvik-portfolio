@@ -23,7 +23,7 @@ Mon expérience récente en tant que développeur FullStack m'a permis de maîtr
 
 Ma vision se résume en quatre points : Problématique => Imagination => Réalisation => Solution.
 
-Dans une perspective d'évolution, j'ai créé ce portfolio non seulement pour pratiquer, exposer mes compétences, mais surtout pour partager (ce qui explique pourquoi vous lisez ces quelques lignes).
+Dans une perspective d'évolution, j'ai créé ce portfolio non seulement pour pratiquer, pour exposer mes compétences, mais surtout dans un esprit de partage (ce qui explique aussi pourquoi vous lisez ces quelques lignes). Raison donc pour laquelle je mets ce projet en libre utilisation. 
 
 ## Technologies Utilisées
 
