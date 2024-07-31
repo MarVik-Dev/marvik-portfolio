@@ -80,6 +80,8 @@ Ce portfolio est conçu pour être facilement navigable et interactif. Comme sti
 ## Structure du Projet
 
 Le projet est structuré de la manière suivante :
+
+```plaintext
 .
 ├── app
 │   ├── components
