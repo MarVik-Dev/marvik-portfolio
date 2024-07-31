@@ -82,80 +82,72 @@ Ce portfolio est conçu pour être facilement navigable et interactif. Comme sti
 Le projet est structuré de la manière suivante :
 .
 ├── app
-│ ├── components
-│ │ ├── layout
-│ │ | ├── About.tsx
-│ │ | ├── Communication.tsx
-│ │ | ├── FAQs.tsx
-│ │ | ├── Feature.tsx
-│ │ | ├── Features.tsx
-│ │ | ├── Footer.tsx
-│ │ | ├── Hero.tsx
-│ │ | ├── NavBar.tsx
-│ │ | ├── Projects.tsx
-│ │ | ├── Reviews.tsx
-│ │ | └── Skills.tsx
-│ │ ├── ui
-│ │ | ├── Accordion.tsx
-│ │ | ├── AnimateTooltip.tsx
-│ │ | ├── BentoGrid.tsx
-│ │ | ├── Button.tsx
-│ │ │ ├── Globe.tsx
-│ │ │ ├── GridGlobe.tsx
-│ │ | ├── MagicButton.tsx
-│ │ │ ├── MovingBorders.tsx
-│ │ | ├── Pin.tsx
-│ │ │ └── StickyScroll.tsx
-│ │ | └── Tooltip.tsx
-│ │ └── utils
-│ │ ├── Logo.tsx
-│ │ ├── Slider.tsx
-│ │ └── ThemeProvider.tsx
-│ │ └── ThemeToggler.tsx
-│ |
-│ ├── data
-│ │ ├── personal (dossier ayant les fichiers à compléter)
-│ │ │ ├── PersonalData.tsx
-│ │ │ ├── aboutItems.tsx
-│ │ │ ├── faqItems.tsx
-│ │ │ ├── navItems.tsx
-│ │ │ ├── projectItems.tsx
-│ │ │ ├── reviewItems.tsx
-│ │ │ ├── specialityItems.tsx
-│ │ │ └── workToolItems.tsx
-│ │ │
-│ │ ├── confetti.json
-│ │ └── globe.json
-│ │  
-│ ├── hooks
-│ │ └── useScrollProgress.tsx
-│ │  
-│ ├── lib
-│ │ └── utils.ts
-│ │  
-│ ├── types
-│ │ └── useProps.ts ---- > (global props file)
-│ │  
-│ ├── globals.css
-│ ├── layout.tsx
-│ ├── page.tsx
-│ ├── provider.tsx
-│ └── template.tsx
-│
+│   ├── components
+│   │   ├── layout
+│   │   │   ├── About.tsx
+│   │   │   ├── Communication.tsx
+│   │   │   ├── FAQs.tsx
+│   │   │   ├── Feature.tsx
+│   │   │   ├── Features.tsx
+│   │   │   ├── Footer.tsx
+│   │   │   ├── Hero.tsx
+│   │   │   ├── NavBar.tsx
+│   │   │   ├── Projects.tsx
+│   │   │   ├── Reviews.tsx
+│   │   │   └── Skills.tsx
+│   │   ├── ui
+│   │   │   ├── Accordion.tsx
+│   │   │   ├── AnimateTooltip.tsx
+│   │   │   ├── BentoGrid.tsx
+│   │   │   ├── Button.tsx
+│   │   │   ├── Globe.tsx
+│   │   │   ├── GridGlobe.tsx
+│   │   │   ├── MagicButton.tsx
+│   │   │   ├── MovingBorders.tsx
+│   │   │   ├── Pin.tsx
+│   │   │   └── StickyScroll.tsx
+│   │   │   └── Tooltip.tsx
+│   │   └── utils
+│   │       ├── Logo.tsx
+│   │       ├── Slider.tsx
+│   │       ├── ThemeProvider.tsx
+│   │       └── ThemeToggler.tsx
+│   ├── data
+│   │   ├── personal (dossier ayant les fichiers à compléter)
+│   │   │   ├── PersonalData.tsx
+│   │   │   ├── aboutItems.tsx
+│   │   │   ├── faqItems.tsx
+│   │   │   ├── navItems.tsx
+│   │   │   ├── projectItems.tsx
+│   │   │   ├── reviewItems.tsx
+│   │   │   ├── specialityItems.tsx
+│   │   │   └── workToolItems.tsx
+│   │   ├── confetti.json
+│   │   └── globe.json
+│   ├── hooks
+│   │   └── useScrollProgress.tsx
+│   ├── lib
+│   │   └── utils.ts
+│   ├── types
+│   │   └── useProps.ts ---- > (global props file)
+│   ├── globals.css
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── provider.tsx
+│   └── template.tsx
 ├── public
-│ └── images
-│ ├── about ---- > (images folder)
-│ ├── backgrounds ---- > (images folder)
-│ ├── footer ---- > (images folder)
-│ ├── hero ---- > (images folder)
-│ ├── icons ---- > (images folder)
-│ ├── reviews ---- > (images folder)
-│ ├── skills ---- > (images folder)
-│ ├── social ---- > (images folder)
-│ ├── tools ---- > (images folder)
-│ ├── work ---- > (images folder)
-│ └── logo.png
-│
+│   └── images
+│       ├── about ---- > (images folder)
+│       ├── backgrounds ---- > (images folder)
+│       ├── footer ---- > (images folder)
+│       ├── hero ---- > (images folder)
+│       ├── icons ---- > (images folder)
+│       ├── reviews ---- > (images folder)
+│       ├── skills ---- > (images folder)
+│       ├── social ---- > (images folder)
+│       ├── tools ---- > (images folder)
+│       ├── work ---- > (images folder)
+│       └── logo.png
 ├── .eslintrc.json
 ├── .gitignore
 ├── components.json
