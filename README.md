@@ -1,20 +1,23 @@
 # Portfolio de Développeur FullStack JavaScript et TypeScript
+FR: Bienvenue sur le portfolio réalisé par le développeur FullStack MarVik ! Ce projet est conçu pour présenter mes compétences en développement web, en utilisant JavaScript (surveillé par TypeScript) comme principal langage de programmation.
 
-Bienvenue sur le portfolio réalisé par le développeur FullStack MarVik ! Ce projet est conçu pour présenter mes compétences en développement web, en utilisant JavaScript (surveillé par TypeScript) comme principal langage de programmation.
+EN: Welcome to the portfolio created by the FullStack developer MarVik! This project is designed to showcase my web development skills, using JavaScript (monitored by TypeScript) as the main programming language.
+
 
 ## Table des Matières
 
 - [Introduction](#introduction)
-- [Technologies Utilisées](#technologies-utilisées)
+- [Technologies Utilisées / Technologies Used](#technologies-utilisées)
 - [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Structure du Projet](#structure-du-projet)
+- [Utilisation / Usage](#utilisation)
+- [Structure du Projet / Project Structure](#structure-du-projet)
 - [Contribution](#contribution)
 - [Licence](#licence)
 - [Contact](#contact)
 
 ## Introduction
 
+FR:
 L'avantage d'un portfolio, c'est qu'il en dit déjà beaucoup sur vous !
 Vous souhaitez un résumé ? (c'est probablement pour cela que vous avez ouvert ce fichier 🙂)
 En quelques mots, je suis quelqu'un qui aime comprendre, qui cherche l'optimisation et le plus important, le partager!
@@ -25,9 +28,22 @@ Ma vision se résume en quatre points : Problématique => Imagination => Créati
 
 Dans une perspective d'évolution, j'ai créé ce portfolio non seulement pour pratiquer, pour exposer mes compétences, mais surtout dans un esprit de partage (ce qui explique aussi pourquoi vous lisez ces quelques lignes). Raison donc pour laquelle je mets ce projet en libre utilisation. 
 
-## Technologies Utilisées
+EN:
+The advantage of a portfolio is that it already says a lot about you!
+Do you want a summary? (that's probably why you opened this file 🙂)
+In a few words, I am someone who loves to understand, seeks optimization, and most importantly, shares it!
 
-Ce projet utilise les technologies et bibliothèques suivantes :
+My recent experience as a FullStack developer has allowed me to master the JavaScript language and fully exploit the entire ecosystem that has developed around it.
+
+My vision can be summarized in four points: Problem => Imagination => Creation => Solution.
+
+In a perspective of evolution, I created this portfolio not only to practice, to expose my skills, but above all in a spirit of sharing (which also explains why you are reading these few lines). Hence why I am making this project freely available.
+
+
+## Technologies Utilisées / Technologies Used
+
+FR: Ce projet utilise les technologies et bibliothèques suivantes:
+EN: This project uses the following technologies and libraries:
 
 - **Frontend**:
   - React
@@ -49,37 +65,44 @@ Ce projet utilise les technologies et bibliothèques suivantes :
 
 ## Installation
 
-Pour installer et exécuter ce projet localement, suivez ces étapes :
+FR: Pour installer et exécuter ce projet localement, suivez ces étapes:
+EN: To install and run this project locally, follow these steps:
 
-1. Clonez le dépôt :
+1. Clonez le dépôt / Clone the repository :
 
    ```bash
    git clone https://github.com/MarVik-Dev/marvik-portfolio.git
    ```
 
-2. Renommé puis accédez au répertoire du projet :
+2. Renommé puis accédez au répertoire du projet / Rename and access the project directory:
    cd votre-portfolio
 
-3. Installez les dépendances (à votre convenance) :
+3. Installez les dépendances (à votre convenance) / Install the dependencies (at your convenience):
    npm install
-   ou
+   ou / or
    pnpm install
 
-4. Lancez le projet :
+4. Lancez le projet / Run the project:
    npm run dev
-   ou
+   ou / or
    pnpm dev
 
-5. Ouvrez votre navigateur :
-   Accédez à http://localhost:3000 pour voir votre nouveau portfolio en action.
+5. Ouvrez votre navigateur / Open your browser:
+   FR: Accédez à http://localhost:3000 pour voir votre nouveau portfolio en action.
+   EN: Access http://localhost:3000 to see your new portfolio in action.
 
-## Utilisation
+## Utilisation / Usage
 
-Ce portfolio est conçu pour être facilement navigable et interactif. Comme stipulé dans l'arborescence (ci-dessous), à la racine dans le dossier "app" vous avez un autre dossier nommé "data". Ce dossier est découpé en plusieurs fichiers explicitement nommés en reprenant chacune des sections du portfolio. C'est là que l'aventure commence pour vous !
+FR:
+Ce portfolio est conçu pour être facilement navigable et interactif. Comme stipulé dans l'arborescence (ci-dessous), à la racine dans le dossier "app" vous avez un autre dossier nommé "data". Ce 
+dossier est découpé en plusieurs fichiers explicitement nommés en reprenant chacune des sections du portfolio. C'est là que l'aventure commence pour vous !
 
-## Structure du Projet
+EN: This portfolio is designed to be easily navigable and interactive. As stipulated in the directory structure (below), at the root in the "app" folder, you have another folder named "data". This folder is divided into several explicitly named files, each corresponding to a section of the portfolio. This is where the adventure begins for you!
 
-Le projet est structuré de la manière suivante :
+## Structure du Projet / Project Structure
+
+FR: Le projet est structuré de la manière suivante:
+EN: The project is structured as follows:
 
 ```plaintext
 .
@@ -159,24 +182,34 @@ Le projet est structuré de la manière suivante :
 ├── README.md
 ├── tailwind.config.ts
 └── tsconfig.json
+```
 
 ## Contribution
 
-Les contributions et 🌟 sur le repo Github sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
+FR: Les contributions et 🌟 sur le repo Github sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
+EN: Contributions and 🌟 on the GitHub repo are welcome! If you wish to contribute to this project, please follow these steps:
 
-1. Fork le dépôt.
-2. Créez une branche pour votre fonctionnalité (git checkout -b feature/votre-fonctionnalite).
-3. Committez vos modifications (git commit -m 'Ajout de la fonctionnalité X').
-4. Poussez la branche (git push origin feature/votre-fonctionnalite).
-5. Ouvrez une Pull Request.
+
+1. Fork le dépôt. 
+   / Fork the repository.
+2. Créez une branche pour votre fonctionnalité (git checkout -b feature/votre-fonctionnalite). 
+   / Create a branch for your feature (git checkout -b feature/your-feature).
+3. Committez vos modifications (git commit -m 'Ajout de la fonctionnalité X'). 
+   / Commit your changes (git commit -m 'Add feature X').
+4. Poussez la branche (git push origin feature/votre-fonctionnalite). 
+   / Push the branch (git push origin feature/your-feature).
+5. Ouvrez une Pull Request. 
+   / Open a Pull Request.
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir ci-dessous pour plus de détails.
+FR: Ce projet est sous licence MIT. Voir ci-dessous pour plus de détails.
+EN: This project is licensed under the MIT License. See below for more details.
 
 ## Contact
 
-Pour toute question ou suggestion, n'hésitez pas à me contacter via mon email ou sur LinkedIn.
+FR: Pour toute question ou suggestion, n'hésitez pas à me contacter via mon email ou sur LinkedIn.
+EN: For any questions or suggestions, feel free to contact me via email or on LinkedIn.
 
 
 
