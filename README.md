@@ -1,6 +1,6 @@
 # Portfolio de Développeur FullStack JavaScript et TypeScript
 FR: Bienvenue sur le portfolio réalisé par le développeur FullStack MarVik ! Ce projet est conçu pour présenter mes compétences en développement web, en utilisant JavaScript (surveillé par TypeScript) comme principal langage de programmation.
-
+---
 EN: Welcome to the portfolio created by the FullStack developer MarVik! This project is designed to showcase my web development skills, using JavaScript (monitored by TypeScript) as the main programming language.
 
 
@@ -27,7 +27,7 @@ Mon expérience récente en tant que développeur FullStack m'a permis de maîtr
 Ma vision se résume en quatre points : Problématique => Imagination => Création => Solution.
 
 Dans une perspective d'évolution, j'ai créé ce portfolio non seulement pour pratiquer, pour exposer mes compétences, mais surtout dans un esprit de partage (ce qui explique aussi pourquoi vous lisez ces quelques lignes). Raison donc pour laquelle je mets ce projet en libre utilisation. 
-
+---
 EN:
 The advantage of a portfolio is that it already says a lot about you!
 Do you want a summary? (that's probably why you opened this file 🙂)
@@ -43,6 +43,7 @@ In a perspective of evolution, I created this portfolio not only to practice, to
 ## Technologies Utilisées / Technologies Used
 
 FR: Ce projet utilise les technologies et bibliothèques suivantes:
+---
 EN: This project uses the following technologies and libraries:
 
 - **Frontend**:
@@ -56,14 +57,14 @@ EN: This project uses the following technologies and libraries:
   - React Icons
   - Embla Carousel
 
-- **Outils**:
+- **Outils / Tools**:
   - TypeScript
   - Sharp
   - Mini SVG Data URI
   - Three.js
   - Three Globe
 
-## Installation
+## Installation /Setup
 
 FR: Pour installer et exécuter ce projet localement, suivez ces étapes:
 EN: To install and run this project locally, follow these steps:
@@ -96,7 +97,7 @@ EN: To install and run this project locally, follow these steps:
 FR:
 Ce portfolio est conçu pour être facilement navigable et interactif. Comme stipulé dans l'arborescence (ci-dessous), à la racine dans le dossier "app" vous avez un autre dossier nommé "data". Ce 
 dossier est découpé en plusieurs fichiers explicitement nommés en reprenant chacune des sections du portfolio. C'est là que l'aventure commence pour vous !
-
+---
 EN: This portfolio is designed to be easily navigable and interactive. As stipulated in the directory structure (below), at the root in the "app" folder, you have another folder named "data". This folder is divided into several explicitly named files, each corresponding to a section of the portfolio. This is where the adventure begins for you!
 
 ## Structure du Projet / Project Structure
