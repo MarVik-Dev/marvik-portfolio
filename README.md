@@ -17,11 +17,11 @@ Bienvenue sur le portfolio réalisé par le développeur FullStack MarVik ! Ce p
 
 L'avantage d'un portfolio, c'est qu'il en dit déjà beaucoup sur vous !
 Vous souhaitez un résumé ? (c'est probablement pour cela que vous avez ouvert ce fichier 🙂)
-En quelques mots, je suis quelqu'un qui aime comprendre, qui cherche à optimiser et le plus important, partager!
+En quelques mots, je suis quelqu'un qui aime comprendre, qui cherche l'optimisation et le plus important, le partager!
 
 Mon expérience récente en tant que développeur FullStack m'a permis de maîtriser le langage JavaScript et d'exploiter pleinement tout l'écosystème qui s'est développé autour.
 
-Ma vision se résume en quatre points : Problématique => Imagination => Réalisation => Solution.
+Ma vision se résume en quatre points : Problématique => Imagination => Création => Solution.
 
 Dans une perspective d'évolution, j'ai créé ce portfolio non seulement pour pratiquer, pour exposer mes compétences, mais surtout dans un esprit de partage (ce qui explique aussi pourquoi vous lisez ces quelques lignes). Raison donc pour laquelle je mets ce projet en libre utilisation. 
 
