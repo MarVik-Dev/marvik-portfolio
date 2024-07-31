@@ -1,6 +1,6 @@
 # Portfolio de Développeur FullStack JavaScript et TypeScript
 
-Bienvenue sur le portfolio réalisé par le développeur FullStack MarVik ! Ce projet est conçu pour présenter mes compétences en développement web, en utilisant JavaScript et TypeScript comme principaux langages de programmation.
+Bienvenue sur le portfolio réalisé par le développeur FullStack MarVik ! Ce projet est conçu pour présenter mes compétences en développement web, en utilisant JavaScript (surveillé par TypeScript) comme principal langage de programmation.
 
 ## Table des Matières
 
