@@ -30,7 +30,7 @@ export default function RootLayout({
       <head>
         <link
           rel="icon"
-          href="/logo/marvik-logo.svg"
+          href="images/logo.png"
           sizes="any"
         />
       </head>
