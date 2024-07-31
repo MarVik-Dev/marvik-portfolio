@@ -257,7 +257,7 @@ To install and run this project locally, follow these steps:
    ```
 
 2. Rename and access the project directory:
-   cd votre-portfolio
+   cd your-portfolio
 
 3. Install the dependencies (at your convenience):
    npm install
